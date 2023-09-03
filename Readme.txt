@@ -1,0 +1,1 @@
+The data folder contains the video clip file and raw variable data of a product-level video record for the narrativity LSE study.
